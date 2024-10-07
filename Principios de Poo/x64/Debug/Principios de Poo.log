@@ -1,0 +1,9 @@
+﻿  Arma.c
+C:\Users\B09S104est\Documents\Repoquert\sc-2420-eval-u3-quertuy1\Principios de Poo\Arma.c(7,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 3 tiene el tipo 'double'
+  Main.c
+C:\Users\B09S104est\Documents\Repoquert\sc-2420-eval-u3-quertuy1\Principios de Poo\Main.c(14,42): warning C4305: 'función': truncamiento de 'double' a 'float'
+C:\Users\B09S104est\Documents\Repoquert\sc-2420-eval-u3-quertuy1\Principios de Poo\Main.c(15,2): warning C4013: 'Mostrarinfo' sin definir; se supone que extern devuelve como resultado int
+  Personaje.c
+  Generando código...
+Main.obj : error LNK2019: símbolo externo Mostrarinfo sin resolver al que se hace referencia en la función main
+C:\Users\B09S104est\Documents\Repoquert\sc-2420-eval-u3-quertuy1\Principios de Poo\x64\Debug\Principios de Poo.exe : fatal error LNK1120: 1 externos sin resolver
